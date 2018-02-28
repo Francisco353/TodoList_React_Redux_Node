@@ -1,0 +1,105 @@
+.form-div {
+  color: white;
+  margin-top: 20em;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.link-div{
+  font-family: "Comic Sans MS", "Comic Sans";
+  color: black;
+}
+
+.link-div:link{
+    text-decoration: none;
+}
+
+#tables-container{
+  margin-top: 6em;
+  margin-left: auto;
+  margin-right: auto;
+  width: 45em;
+}
+
+.task-form{
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.cross_task{
+  color: white;
+  border-radius: 4px;
+  width: 2em;
+  text-align: center;
+  font-size: 10px;
+  background-color: red;
+  margin-left: 3em;
+}
+
+.newTaskButton{
+    margin-top: 1em;
+}
+.color{
+  background-color: blue;
+}
+.table-div{
+  background-color: white;
+  margin-left: 2em;
+  text-align: center;
+  width: 12em;
+  height: 30em;
+  border-radius: 8px;
+  display: inline-block;
+}
+#newBoardForm-div{
+  margin-top: 1em;
+  margin-left: 1em;
+}
+
+#newboardform{
+  width: 20em;
+  color: white;
+}
+
+#newBoardButton{
+  margin-top: 1em;
+  margin-left: 1em;
+}
+
+#acceptnewBoardForm{
+  margin-top: 1em;
+}
+
+#cancelnewBoardForm{
+  margin-top: 1em;
+  margin-left: 1em;
+}
+
+.card-div{
+  height: 3em;
+  margin-top: 2em;
+  margin-left: 2em;
+  padding-top: 0.5em;
+  padding-left: 2em;
+  padding-right: 2em;
+  border-radius: 2px;
+  background-color: white;
+  display:inline-block;
+}
+
+body{
+  background-color: #333;
+}
+
+.center-object {
+  margin-left: 50em;
+  margin-top: 15em;
+}
+
+.pageNotFound{
+  color: white;
+  font-size: 5em;
+  text-align: center;
+
+}
